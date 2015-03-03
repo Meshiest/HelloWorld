@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+  int variable;
+ cout<<"Hello World" << endl;
+ cout<<"Enter something"<<endl;
+ cin>>variable;
+ return 0;
+}
