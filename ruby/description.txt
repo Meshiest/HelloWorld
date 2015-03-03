@@ -1,0 +1,11 @@
+Description:
+basically a place to put random ruby things
+
+Format:
+At the top of the file, put the following:
+#
+# Author: (your git name) | (your reddit name)
+# Date: (date mm/dd/yy)
+# Description:
+# (what your program actually does)
+#
